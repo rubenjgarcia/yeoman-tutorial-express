@@ -1,0 +1,13 @@
+{
+  "name": "generator-rubenjgarcia-express",
+  "version": "0.1.0",
+  "description": "Express Generator",
+  "files": [
+    "app"
+  ],
+  "author": "Ruben J Garcia",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  },
+  "license" : "MIT"
+}
